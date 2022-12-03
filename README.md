@@ -5,6 +5,7 @@
       Nguyen Dang Lan Anh (leader) - ITITIU20155
       Le Nguyen Bao Long 
       Nguyen Huy Thanh - ITITIU20308
+      Nguyen Quang Duy - ITITIU20196
       
       (Tu edit ten vs ma SV zo di may em)
 #### Description
